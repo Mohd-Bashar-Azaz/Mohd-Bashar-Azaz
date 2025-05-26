@@ -35,13 +35,13 @@
 
 ### 🔥 Stats & Contributions
 
-![GitHub Streak](https://streak-stats.demolab.com?user=basharazaz\&theme=radical\&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Streak](https://streak-stats.demolab.com?user=Mohd-Bashar-Azaz\&theme=radical\&date_format=M%20j%5B%2C%20Y%5D)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=basharazaz\&show_icons=true\&theme=radical\&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohd-Bashar-Azaz\&show_icons=true\&theme=radical\&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=basharazaz\&layout=compact\&theme=radical\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohd-Bashar-Azaz\&layout=compact\&theme=radical\&hide_border=true)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=basharazaz\&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohd-Bashar-Azaz\&theme=radical)
 
 ---
 
@@ -49,11 +49,11 @@
 
 * MERN Stack (MongoDB, Express, React, Node)
 * Advanced API Design Patterns
-* TypeScript & Docker Basics
+
 
 ---
 
 ## 📢 Let's Connect
 
-* 🌐 [LinkedIn](https://linkedin.com/in/yourusername)
-* 📨 [bashar@example.com](mailto:bashar@example.com)
+* 🌐 [LinkedIn](https://www.linkedin.com/in/mohd-bashar-azaz-57883b283/)
+* 📨 [m.basharazaz@gmail.com](mailto:m.basharazaz@gmail.com)
