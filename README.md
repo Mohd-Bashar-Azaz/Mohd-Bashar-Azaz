@@ -31,19 +31,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-### 🔥 Stats & Contributions
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Mohd-Bashar-Azaz\&theme=radical\&date_format=M%20j%5B%2C%20Y%5D)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohd-Bashar-Azaz\&show_icons=true\&theme=radical\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohd-Bashar-Azaz\&layout=compact\&theme=radical\&hide_border=true)
-
-
----
-
 ## 🧠 Currently Learning
 
 * MERN Stack (MongoDB, Express, React, Node)
