@@ -41,7 +41,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohd-Bashar-Azaz\&layout=compact\&theme=radical\&hide_border=true)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohd-Bashar-Azaz\&theme=radical)
 
 ---
 
