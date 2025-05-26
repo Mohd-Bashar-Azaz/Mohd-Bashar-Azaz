@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohd Bashar Azaz
 
-<!--
-**Mohd-Bashar-Azaz/Mohd-Bashar-Azaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS Undergrad @ Integral University
+💼 Currently working as a Backend Developer Intern @ Vegingo – B2B E-commerce (Lucknow) 
+🔥 Passionate about building scalable backend systems and APIs
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+* 💻 Building scalable APIs and dashboards for **Vegingo**, a B2B e-commerce platform
+* 🛠️ Experienced with Laravel, JavaScript, Blade, Bootstrap, jQuery, AJAX
+* 🌐 Created REST APIs for: **products, reviews, cart, order, address, payment**
+* 🔐 Integrated: PhonePe gateway, OTP login (MSG91), Google Login
+* 🧾 Built: QR code generators for payments, invoice generators
+* ☁️ Integrated: AWS S3 for secure image storage
+* 📬 Added: Firebase Push Notifications, FCM tokens
+* ⏱️ Used: Laravel Cron Jobs, Task Scheduling
+* 📊 Currently Learning: MERN Stack (MongoDB, Express.js, React.js, Node.js)
+* 🐍 Learned Python in school which helped me ramp up Laravel in **just 25 days**
+
+---
+
+## 🚀 Technologies & Tools
+
+**Backend:** Laravel, PHP, Node.js (learning)
+**Frontend:** Blade, Bootstrap, jQuery, AJAX
+**Auth/Services:** Firebase, MSG91, Google OAuth
+**Dev Tools:** Git, GitHub, Postman, AWS S3, Cron Jobs
+**Learning:** MERN Stack, Docker (soon)
+
+---
+
+## 📊 GitHub Stats
+
+### 🔥 Stats & Contributions
+
+![GitHub Streak](https://streak-stats.demolab.com?user=basharazaz\&theme=radical\&date_format=M%20j%5B%2C%20Y%5D)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=basharazaz\&show_icons=true\&theme=radical\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=basharazaz\&layout=compact\&theme=radical\&hide_border=true)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=basharazaz\&theme=radical)
+
+---
+
+## 🧠 Currently Learning
+
+* MERN Stack (MongoDB, Express, React, Node)
+* Advanced API Design Patterns
+* TypeScript & Docker Basics
+
+---
+
+## 📢 Let's Connect
+
+* 🌐 [LinkedIn](https://linkedin.com/in/yourusername)
+* 📨 [bashar@example.com](mailto:bashar@example.com)
