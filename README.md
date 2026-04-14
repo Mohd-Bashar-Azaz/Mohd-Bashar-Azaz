@@ -38,7 +38,7 @@
 
 
 ---
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohd-Bashar-Azaz&show_icons=true)
 ## 📢 Let's Connect
 
 * 🌐 [LinkedIn](https://www.linkedin.com/in/mohd-bashar-azaz-57883b283/)
